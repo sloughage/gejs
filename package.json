@@ -1,0 +1,19 @@
+{
+  "name": "gejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sloughage/gejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sloughage/gejs/issues"
+  },
+  "homepage": "https://github.com/sloughage/gejs#readme"
+}
